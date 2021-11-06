@@ -16,7 +16,7 @@ The current release will contain the following functionalities:
 - Get details of a road (picture, description, length, and recommended route)
 
 The current selection of roads is still limited, beta testers are encouraged to share their favourite roads with us.
-To submit a road, you can contact us using the following email address: [azzastudios@gmail.com](azzastudios@gmail.com)
+To submit a road, you can contact us using the following email address: [azzastudios@gmail.com](mailto:azzastudios@gmail.com)
 
 ## iOS
 
