@@ -26,29 +26,28 @@ This installation guide is suited for iOS devices.
 
 To download Expo Go, open the App Store, search `Expo Go` and download the application.
 
-![iOS step 1](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step1.jpg)
-
-<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step1.jpg" width="200">
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step1.jpg" alt="iOS step 1" width="250">
 
 ### Step 2: Sign in
 
 After downloading the application open it and navigate to the `Profile` page using the bottom tab navigator. 
 
-![iOS step 2](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step2.jpg)
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step2.jpg" alt="iOS step 2" width="250">
 
 Now sign in to the shared expo account using the credentials you received in the beta tester release mail.
 
-![iOS step 3](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step3.jpg)
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step3.jpg" alt="iOS step 3" width="250">
+
 
 ### Step 3: Open Project 992
 
 After signin in, open Project 992 under `RECENT PROJECTS`.
 
-![iOS step 4](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step4.jpg)
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step4.jpg" alt="iOS step 4" width="250">
 
 And choose the `default` release channel. This will open Project 992.
 
-![iOS step 5](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step5.jpg)
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step4.jpg" alt="iOS step 5" width="250">
 
 You are done! :clap:  
 
@@ -65,18 +64,17 @@ This installation guide is suited for android devices.
 
 When you open the link (provided in the beta tester release mail) you will be prompted to accept the invitation to the testing program. 
 
-![Android step 1](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.39.06.png)
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.39.06.png" alt="Android step 1" width="250">
 
 Once accepted you can follow the first link to `Download it on Google Play`. 
 
-![Android step 2](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.50.24.png)
-
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.50.24.png" alt="Android step 2" width="250">
 
 ### Step 2: Download Project 992 Beta
 
 Using the link above you will open the Project 992 page in the Play Store. From this page you can download Project 992.
 
-![Android step 3](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.39.31.png)
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.39.31.png" alt="Android step 3" width="250">
 
 ### Step 3: Open Project 992
 
