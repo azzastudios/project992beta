@@ -15,7 +15,7 @@ The current release will contain the following functionalities:
 - Keep track of roads you have driven
 - Get details of a road (picture, description, length, and recommended route)
 
-The current selection of roads is still limited, beta testers are encouraged to share their favourite roads with us.
+The current selection of roads is still limited, beta testers are encouraged to share their favourite roads with us.  
 To submit a road, you can contact us using the following email address: [azzastudios@gmail.com](mailto:azzastudios@gmail.com)
 
 ## iOS
@@ -35,7 +35,8 @@ After downloading the application open it and navigate to the `Profile` page usi
 
 After signin in, open Project 992 under `RECENT PROJECTS`, and choose the `default` release channel. This will open Project 992.
 
-You are done! :clap:
+You are done! :clap:  
+
 Now you can use Project 992 whenever you want, you can open it using the Expo Go app in the same manner.
 
 Enjoy and drive safe! 🚗
