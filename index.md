@@ -46,11 +46,15 @@ Enjoy and drive safe! 🚗
 
 This installation guide is suited for android devices.
 
-### Step 1: Download Project 992 Beta
+### Step 1: Accept invitation
 
-Using the link provided in the beta tester release mail to open the Project 992 page in the Play Store. From this page you can download Project 992.
+When you open the link (provided in the beta tester release mail) you will be prompted to accept the invitation to the testing program. Once accepted you can follow the first link to `Download it on Google Play`. 
 
-### Step 2: Open Project 992
+### Step 2: Download Project 992 Beta
+
+Using the link above you will open the Project 992 page in the Play Store. From this page you can download Project 992.
+
+### Step 3: Open Project 992
 
 Navigate to the Project 992 icon in the application list and open the app.
 
