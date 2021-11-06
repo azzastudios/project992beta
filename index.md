@@ -44,34 +44,18 @@ Enjoy and drive safe! 🚗
 
 ## Android
 
-### Markdown
+This installation guide is suited for android devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Step 1: Download Project 992 Beta
 
-```markdown
-Syntax highlighted code block
+Using the link provided in the beta tester release mail to open the Project 992 page in the Play Store. From this page you can download Project 992.
 
-# Header 1
-## Header 2
-### Header 3
+### Step 2: Open Project 992
 
-- Bulleted
-- List
+Navigate to the Project 992 icon in the application list and open the app.
 
-1. Numbered
-2. List
+You are done! :clap:  
 
-**Bold** and _Italic_ and `Code` text
+Now you can use Project 992 whenever you want!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azzastudios/project992beta/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Enjoy and drive safe! 🚗
