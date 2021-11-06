@@ -29,7 +29,16 @@ To download Expo Go, open the App Store, search `Expo Go` and download the appli
 
 ### Step 2: Sign in
 
-After downloading the application open it and navigate to the `Profile` page using the bottom tab navigator. Now sign in to the shared expo account using the credentials you received
+After downloading the application open it and navigate to the `Profile` page using the bottom tab navigator. Now sign in to the shared expo account using the credentials you received in the beta tester release mail.
+
+### Step 3: Open Project 992
+
+After signin in, open Project 992 under `RECENT PROJECTS`, and choose the `default` release channel. This will open Project 992.
+
+You are done! :clap:
+Now you can use Project 992 whenever you want, you can open it using the Expo Go app in the same manner.
+
+Enjoy and drive safe! 🚗
 
 
 ## Android
