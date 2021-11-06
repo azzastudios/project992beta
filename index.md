@@ -73,13 +73,13 @@ This installation guide is suited for android devices.
 When you open the link (provided in the beta tester release mail) you will be prompted to accept the invitation to the testing program. 
 
 
-<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.39.06.png" alt="Android step 1" width="450">
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.39.06.png" alt="Android step 1" width="550">
 
 
 Once accepted you can follow the first link to `Download it on Google Play`. 
 
 
-<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.50.24.png" alt="Android step 2" width="450">
+<img src="https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/Screenshot+2021-11-06+at+19.50.24.png" alt="Android step 2" width="550">
 
 
 ### Step 2: Download Project 992 Beta
