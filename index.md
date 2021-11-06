@@ -26,7 +26,7 @@ This installation guide is suited for iOS devices.
 
 To download Expo Go, open the App Store, search `Expo Go` and download the application.
 
-![iOS step 1](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step1.jpg)
+![iOS step 1](https://project-992-bucket.s3.eu-central-1.amazonaws.com/download+instructions/step1.jpg){:width="200px"}
 
 ### Step 2: Sign in
 
